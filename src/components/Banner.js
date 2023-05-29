@@ -24,13 +24,12 @@ class Banner extends React.Component {
                 const bannerObj2 = res.data.data.Banner2;
                 this.setState( { pcBannerURL: bannerObj, mobileBannerURL: bannerObj2  });
             });
-            console.log('hello')
   
     }
 
   
     render() {
-  
+        
         return(
             <section className="banner-wrap">
                 

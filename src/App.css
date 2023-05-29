@@ -1675,7 +1675,7 @@ transition: transform .5s ease-out;
       margin: 50px auto 40px;
       gap: 2em;
       place-content: center;
-      align-items: end;
+      align-items: flex-end;
   }
   .trophies-wrap li {
       padding: 10px 15px;
