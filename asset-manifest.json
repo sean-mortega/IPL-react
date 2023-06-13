@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/IPL-react/static/css/main.14df556c.css",
+    "main.js": "/IPL-react/static/js/main.d765d5ac.js",
+    "static/js/787.df5c6da6.chunk.js": "/IPL-react/static/js/787.df5c6da6.chunk.js",
+    "static/media/cricket-helmet.png": "/IPL-react/static/media/cricket-helmet.2b9bb7986acdd225df59.png",
+    "static/media/Montserrat-SemiBold.ttf": "/IPL-react/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Bold.ttf": "/IPL-react/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Regular.ttf": "/IPL-react/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/Oswald-Regular.ttf": "/IPL-react/static/media/Oswald-Regular.e815068d369177121fd8.ttf",
+    "static/media/main-logo.png": "/IPL-react/static/media/main-logo.a431fecd34102cbe34ea.png",
+    "index.html": "/IPL-react/index.html",
+    "main.14df556c.css.map": "/IPL-react/static/css/main.14df556c.css.map",
+    "main.d765d5ac.js.map": "/IPL-react/static/js/main.d765d5ac.js.map",
+    "787.df5c6da6.chunk.js.map": "/IPL-react/static/js/787.df5c6da6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14df556c.css",
+    "static/js/main.d765d5ac.js"
+  ]
+}
